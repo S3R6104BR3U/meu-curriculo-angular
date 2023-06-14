@@ -1,0 +1,61 @@
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 250px;
+    width: 60%;
+    background-color: #222;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid rgb(0, 225, 255);
+    box-shadow: 0 0 10px rgb(0, 225, 255);
+}
+
+.card-content {
+    
+    
+}
+
+.card-content > img {
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid rgb(0, 225, 255);
+    box-shadow: 0 0 10px rgb(0, 225, 255);
+}
+
+.dados-tecnologias {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 640px;
+}
+
+.dados-pessoais {   
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.tecnologias {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tecnologias > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tecnologias > div > img {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.tecnologias > div > p {
+}
+
+
