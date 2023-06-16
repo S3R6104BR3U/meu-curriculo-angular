@@ -36,6 +36,7 @@
 .tecnologias {
     display: flex;
     justify-content: space-between;
+    margin-left: 50px;
 }
 
 .tecnologias > div {
