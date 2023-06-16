@@ -14,16 +14,11 @@
     box-shadow: 0 0 10px rgb(0, 225, 255);
 }
 
-.card-content {
-    
-    
-}
-
 .card-content > img {
     height: 200px;
     border-radius: 50%;
     border: 2px solid rgb(0, 225, 255);
-    box-shadow: 0 0 10px rgb(0, 225, 255);
+    box-shadow: 0 0 5px rgb(0, 225, 255);
 }
 
 .dados-tecnologias {
@@ -47,6 +42,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 50px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid rgb(0, 225, 255);
+    box-shadow: 0 0 5px rgb(0, 225, 255);
 }
 
 .tecnologias > div > img {
