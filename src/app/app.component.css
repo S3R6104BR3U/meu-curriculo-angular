@@ -40,15 +40,9 @@ h4 {
 }
 
 .certificados > li > a {
-    color: rgb(0, 225, 255);
     margin: 5px;
-    text-decoration: none;
 }
 
-.certificados > li > a:hover {
-    color:rgb(0, 255, 0);
-    text-shadow: 0 0 5px rgb(0, 255, 0);
-}
 
 footer {
     display: flex;
